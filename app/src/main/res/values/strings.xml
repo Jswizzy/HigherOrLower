@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HigherOrLower</string>
+    <string name="lower">Lower</string>
+    <string name="higher">Higher</string>
+    <string name="correct">Correct</string>
+    <string name="enterNumber">Please enter a number</string>
+</resources>
